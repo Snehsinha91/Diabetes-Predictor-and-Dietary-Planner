@@ -1,0 +1,1 @@
+This folder contains the python code of algorithms used for Diabetes prediction and Diet plan recommendation.
